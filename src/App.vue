@@ -20,7 +20,7 @@
 
 <script>
 import Vue from 'vue'
-import NoticeBar from 'vue-simplify-noticebar'
+import NoticeBar from 'vue-simple-noticebar'
 Vue.use(NoticeBar)
 
 export default {
